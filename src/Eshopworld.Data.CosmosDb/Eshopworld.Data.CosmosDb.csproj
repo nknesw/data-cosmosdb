@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>Eshopworld.Data.CosmosDb</PackageId>
+    <Description>Cosmos DB CRUD functionality.</Description>
     <version>1.0.0</version>
   </PropertyGroup>
 
