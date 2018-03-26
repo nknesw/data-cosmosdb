@@ -74,8 +74,8 @@
     <Analyzer Include="..\..\packages\xunit.analyzers.0.8.0\analyzers\dotnet\cs\xunit.analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Eshopworld.Data.CosmosDb\Eshopworld.Data.CosmosDb.csproj">
-      <Project>{870865D4-03B9-4D4E-9B90-501443EE9247}</Project>
+    <ProjectReference Include="..\..\Eshopworld.Data.CosmosDb\Eshopworld.Data.CosmosDb.csproj">
+      <Project>{68529af7-b451-41d5-9289-b5a2cf52ce47}</Project>
       <Name>Eshopworld.Data.CosmosDb</Name>
     </ProjectReference>
   </ItemGroup>
